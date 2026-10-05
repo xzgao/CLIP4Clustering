@@ -88,7 +88,7 @@ If you find TAC useful in your research, please consider citing:
 ```
 @article{Xiao2026CLIP4Clustering,
   title={CLIP4Clustering: A Novel Language-driven Pre-trained Contrastive Clustering Network},
-  author={Xiao, Jiaqi and Gao, Xizhan},
+  author={xxx},
   journal={xxxx},
   year={2026}
 }
